@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/Shekharkr05/Shekharkr05/main/banner.png)
+
 # Hello Internet, I'm Shekhar Kumar
 
 💻 **Tech Enthusiast**
