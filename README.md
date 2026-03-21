@@ -1,4 +1,4 @@
-# Hi 👋, I'm Shekhar Kumar
+# Hello Internet, I'm Shekhar Kumar
 
 💻 **Tech Enthusiast**
 🧠 Focused on depth, not noise
